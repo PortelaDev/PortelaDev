@@ -1,4 +1,4 @@
- Oi! Eu sou o Caio Portela 👋
+<h1>Oi! Eu sou o Caio Portela 👋</h1>
 
 ![PortelaDev's Stats](https://github-readme-stats.vercel.app/api?username=PortelaDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 ![PortelaDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PortelaDev&theme=tokyonight&hide_border=true)<br/>
