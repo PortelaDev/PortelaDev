@@ -2,7 +2,7 @@
 <p>Estudante de Análise de desenvolvimento de sistemas.</p>
 <p>estudando para me tornar um desenvolvedor back-end.</p>
 
-<a href="http://https://www.linkedin.com/in/caioportelas/">LINKEDIN</a></br>
+<a href="http://https://www.linkedin.com/in/caioportelas/">Meu Linkedin</a></br>
 
 ![PortelaDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PortelaDev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)</br>
 ![PortelaDev's Stats](https://github-readme-stats.vercel.app/api?username=PortelaDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
