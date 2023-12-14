@@ -1,6 +1,6 @@
 <h1>Oi! Eu sou o Caio Portela 👋</h1>
-<p>Estudante de Análise de desenvolvimento de sistemas.</p>
-<p>estudando para me tornar um desenvolvedor back-end.</p>
+<p>Sou um estudante de Análise de desenvolvimento de sistemas.</p>
+<p>estudando para me tornar um desenvolvedor.</p>
 
 <a href="http://https://www.linkedin.com/in/caioportelas/">Meu Linkedin</a></br>
 
