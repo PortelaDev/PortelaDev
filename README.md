@@ -1,6 +1,6 @@
-# 🥋 Eu sou o Caio Portela 
-Sou um estudante de Análise de desenvolvimento de sistemas.
-estudando para me tornar um desenvolvedor.
+# 🥋 Eu sou o Caio Portela
+Um faixa preta nas artes marciais e na vida, almejando a minha faixa preta na tecnologia,
+estudo Análise de desenvolvimento de sistemas para me tornar um desenvolvedor.
 
 ## 🟢 Links
 | Redes    |
