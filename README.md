@@ -5,7 +5,8 @@ estudo Análise de desenvolvimento de sistemas para me tornar um desenvolvedor.
 ## 🟢 Links
 | Redes    |
 |:---:|
-| [Linkedin](https://www.linkedin.com/in/caioportelas/) | [Facebook](https://www.facebook.com/caioportela) |
+| [Linkedin](https://www.linkedin.com/in/caioportelas/) |
+| [Facebook](https://www.facebook.com/caioportela) |
 
 
 ## 💻 Git Status
