@@ -1,6 +1,5 @@
-# 🥋 Eu sou o Caio Portela
-Um faixa preta nas artes marciais e na vida, almejando a minha faixa preta na tecnologia,
-estudo Análise de desenvolvimento de sistemas para me tornar um desenvolvedor.
+# Eu sou o Caio Portela
+Estudante de Análise e Desenvolvimento de Sistemas, dedicado a me tornar um desenvolvedor competente e inovador. Estou focado em aprimorar minhas habilidades técnicas e contribuir com soluções que impactem positivamente o mundo da tecnologia
 
 ## 🟢 Links
 | Redes    |
