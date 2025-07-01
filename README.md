@@ -47,10 +47,10 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnol
 ### **🎓 Formação Acadêmica**
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-*Faculdade Estácio de Sá – Recife, PE (2022 - 2026)*
+*Faculdade Estácio de Sá –  (2022 - 2026)*
 
 **Técnico em Segurança do Trabalho**  
-*Grau Técnico – Recife, PE (2014 - 2016)*
+*Grau Técnico – (2014 - 2016)*
 
 
 ---
