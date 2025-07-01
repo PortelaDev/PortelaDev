@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Caio César Portela Serafim</h1>
-  <h3 align="center">Desenvolvedor de Software</h3>
+ 
 </div>
 
 <div align="center">
