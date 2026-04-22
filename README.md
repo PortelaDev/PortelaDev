@@ -11,7 +11,7 @@
 ---
 
 ### **👋 Sobre Mim**
-Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e resolução de problemas. Tenho perfil proativo, aprendo rápido e estou sempre em busca de novos desafios para aplicar e expandir minhas habilidades em desenvolvimento de software. Meu objetivo é colaborar em projetos inovadores e crescer profissionalmente na área de TI.
+Sou um Análista e Desenvolvedor de Sistemas apaixonado por tecnologia e resolução de problemas. Tenho perfil proativo, aprendo rápido e estou sempre em busca de novos desafios para aplicar e expandir minhas habilidades em desenvolvimento de software. Meu objetivo é colaborar em projetos inovadores e crescer profissionalmente na área de TI.
 
 ---
 
